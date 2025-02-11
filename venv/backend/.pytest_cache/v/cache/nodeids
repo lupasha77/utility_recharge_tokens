@@ -1,0 +1,6 @@
+[
+  "app/meter_simulator/tests/tests_meter_recharge.py::TestMeterRecharge::test_invalid_token_format",
+  "app/meter_simulator/tests/tests_meter_recharge.py::TestMeterRecharge::test_missing_fields",
+  "app/meter_simulator/tests/tests_meter_recharge.py::TestMeterRecharge::test_valid_recharge",
+  "app/meter_simulator/tests/tests_meter_recharge.py::test_meter_recharge"
+]

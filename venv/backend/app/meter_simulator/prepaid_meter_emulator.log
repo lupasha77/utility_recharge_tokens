@@ -1,0 +1,888 @@
+2025-02-09 16:22:31,256 - INFO - Meter Emulator application starting...
+2025-02-09 16:22:31,271 - INFO - Successfully connected to database: token_meter_recharge
+2025-02-09 16:22:31,271 - INFO - Database connection established successfully
+2025-02-09 16:23:49,094 - INFO - Attempting authentication for email: leonard1@gmail.com
+2025-02-09 16:23:49,094 - INFO - Attempting to authenticate user: leonard1@gmail.com
+2025-02-09 16:23:49,107 - INFO - User found: leonard1@gmail.com
+2025-02-09 16:23:49,107 - INFO - Authentication successful for user: leonard1@gmail.com
+2025-02-09 16:23:50,558 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 16:23:52,942 - INFO - Token validation attempt - Raw token: 8604-9933-2693-8672
+2025-02-09 16:23:52,943 - INFO - Searching for token: 8604-9933-2693-8672 for water
+2025-02-09 16:23:52,946 - INFO - Valid active token found: 8604-9933-2693-8672
+2025-02-09 16:23:52,947 - INFO - Valid token found: 8604-9933-2693-8672
+2025-02-09 16:23:55,002 - INFO - Updating token status for ID: 67a8a20ee24394487123cbcd
+2025-02-09 16:23:55,008 - INFO - Token status updated to 'used': 67a8a20ee24394487123cbcd
+2025-02-09 16:23:55,008 - INFO - Recharge successful - Added 13 units to meter balance
+2025-02-09 16:23:55,009 - INFO - Display updated - Meter balance for water: 13.00
+2025-02-09 16:24:01,279 - INFO - Display updated - Meter balance for water: 12.79
+2025-02-09 16:24:01,280 - INFO - Usage simulation: water consumed 0.209 units
+2025-02-09 16:24:01,281 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:24:01,283 - INFO - Balance retrieved for leonard1@gmail.com: -117.0050950217967
+2025-02-09 16:24:31,286 - INFO - Display updated - Meter balance for water: 12.57
+2025-02-09 16:24:31,287 - INFO - Usage simulation: water consumed 0.221 units
+2025-02-09 16:24:31,288 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:24:31,291 - INFO - Balance retrieved for leonard1@gmail.com: -117.0050950217967
+2025-02-09 16:25:01,307 - INFO - Display updated - Meter balance for water: 12.39
+2025-02-09 16:25:01,309 - INFO - Usage simulation: water consumed 0.175 units
+2025-02-09 16:25:01,309 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:25:01,313 - INFO - Balance retrieved for leonard1@gmail.com: -117.0050950217967
+2025-02-09 16:25:31,533 - INFO - Display updated - Meter balance for water: 12.16
+2025-02-09 16:25:31,534 - INFO - Usage simulation: water consumed 0.239 units
+2025-02-09 16:25:31,535 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:25:31,538 - INFO - Balance retrieved for leonard1@gmail.com: -117.0050950217967
+2025-02-09 16:26:01,801 - INFO - Display updated - Meter balance for water: 11.99
+2025-02-09 16:26:01,802 - INFO - Usage simulation: water consumed 0.163 units
+2025-02-09 16:26:01,803 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:26:01,806 - INFO - Balance retrieved for leonard1@gmail.com: -117.0050950217967
+2025-02-09 16:26:13,646 - INFO - Token validation attempt - Raw token: 9158-4408-8637-1124
+2025-02-09 16:26:13,647 - INFO - Searching for token: 9158-4408-8637-1124 for water
+2025-02-09 16:26:13,649 - INFO - Valid active token found: 9158-4408-8637-1124
+2025-02-09 16:26:13,650 - INFO - Valid token found: 9158-4408-8637-1124
+2025-02-09 16:26:15,720 - INFO - Updating token status for ID: 67a3bf4c061c3fe0373c0985
+2025-02-09 16:26:15,726 - INFO - Token status updated to 'used': 67a3bf4c061c3fe0373c0985
+2025-02-09 16:26:15,726 - INFO - Recharge successful - Added 155 units to meter balance
+2025-02-09 16:26:15,727 - INFO - Display updated - Meter balance for water: 166.99
+2025-02-09 16:26:32,092 - INFO - Display updated - Meter balance for water: 166.80
+2025-02-09 16:26:32,093 - INFO - Usage simulation: water consumed 0.193 units
+2025-02-09 16:26:32,093 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:26:32,096 - INFO - Balance retrieved for leonard1@gmail.com: -272.0050950217967
+2025-02-09 16:27:02,396 - INFO - Display updated - Meter balance for water: 166.61
+2025-02-09 16:27:02,397 - INFO - Usage simulation: water consumed 0.190 units
+2025-02-09 16:27:02,398 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:27:02,401 - INFO - Balance retrieved for leonard1@gmail.com: -272.0050950217967
+2025-02-09 16:27:32,672 - INFO - Display updated - Meter balance for water: 166.42
+2025-02-09 16:27:32,674 - INFO - Usage simulation: water consumed 0.187 units
+2025-02-09 16:27:32,675 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:27:32,677 - INFO - Balance retrieved for leonard1@gmail.com: -272.0050950217967
+2025-02-09 16:28:02,976 - INFO - Display updated - Meter balance for water: 166.19
+2025-02-09 16:28:02,978 - INFO - Usage simulation: water consumed 0.232 units
+2025-02-09 16:28:02,979 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:28:02,981 - INFO - Balance retrieved for leonard1@gmail.com: -186.0050950217967
+2025-02-09 16:28:33,324 - INFO - Display updated - Meter balance for water: 166.01
+2025-02-09 16:28:33,325 - INFO - Usage simulation: water consumed 0.181 units
+2025-02-09 16:28:33,326 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:28:33,330 - INFO - Balance retrieved for leonard1@gmail.com: -186.0050950217967
+2025-02-09 16:29:03,320 - INFO - Display updated - Meter balance for water: 165.85
+2025-02-09 16:29:03,321 - INFO - Usage simulation: water consumed 0.163 units
+2025-02-09 16:29:03,321 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:29:03,323 - INFO - Balance retrieved for leonard1@gmail.com: -53.005095021796706
+2025-02-09 16:29:33,329 - INFO - Display updated - Meter balance for water: 165.67
+2025-02-09 16:29:33,330 - INFO - Usage simulation: water consumed 0.175 units
+2025-02-09 16:29:33,331 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:29:33,333 - INFO - Balance retrieved for leonard1@gmail.com: 26.994904978203294
+2025-02-09 16:29:33,334 - INFO - Updating balance for leonard1@gmail.com, water: -0.19064491016378848
+2025-02-09 16:29:33,340 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:29:33,341 - INFO - Display updated - Meter balance for water: 165.67
+2025-02-09 16:29:33,342 - INFO - Usage simulation: water consumed 0.191 units
+2025-02-09 16:30:03,334 - INFO - Display updated - Meter balance for water: 165.51
+2025-02-09 16:30:03,335 - INFO - Usage simulation: water consumed 0.166 units
+2025-02-09 16:30:03,336 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:30:03,339 - INFO - Balance retrieved for leonard1@gmail.com: 26.804260068039508
+2025-02-09 16:30:03,340 - INFO - Updating balance for leonard1@gmail.com, water: -0.17019440431837693
+2025-02-09 16:30:03,346 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:30:03,346 - INFO - Display updated - Meter balance for water: 165.51
+2025-02-09 16:30:03,347 - INFO - Usage simulation: water consumed 0.170 units
+2025-02-09 16:30:33,390 - INFO - Display updated - Meter balance for water: 165.34
+2025-02-09 16:30:33,390 - INFO - Usage simulation: water consumed 0.165 units
+2025-02-09 16:30:33,391 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:30:33,392 - INFO - Balance retrieved for leonard1@gmail.com: 26.63406566372113
+2025-02-09 16:30:33,392 - INFO - Updating balance for leonard1@gmail.com, water: -0.20494244113452253
+2025-02-09 16:30:33,396 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:30:33,396 - INFO - Display updated - Meter balance for water: 165.34
+2025-02-09 16:30:33,397 - INFO - Usage simulation: water consumed 0.205 units
+2025-02-09 16:31:03,699 - INFO - Display updated - Meter balance for water: 165.11
+2025-02-09 16:31:03,700 - INFO - Usage simulation: water consumed 0.233 units
+2025-02-09 16:31:03,702 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:31:03,702 - INFO - Balance retrieved for leonard1@gmail.com: 26.429123222586608
+2025-02-09 16:31:03,702 - INFO - Updating balance for leonard1@gmail.com, water: -0.1627696174026489
+2025-02-09 16:31:03,706 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:31:03,708 - INFO - Display updated - Meter balance for water: 165.11
+2025-02-09 16:31:03,708 - INFO - Usage simulation: water consumed 0.163 units
+2025-02-09 16:31:34,023 - INFO - Display updated - Meter balance for water: 164.91
+2025-02-09 16:31:34,025 - INFO - Usage simulation: water consumed 0.196 units
+2025-02-09 16:31:34,025 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:31:34,026 - INFO - Balance retrieved for leonard1@gmail.com: 26.26635360518396
+2025-02-09 16:31:34,027 - INFO - Updating balance for leonard1@gmail.com, water: -0.20672641692361526
+2025-02-09 16:31:34,032 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:31:34,033 - INFO - Display updated - Meter balance for water: 164.91
+2025-02-09 16:31:34,034 - INFO - Usage simulation: water consumed 0.207 units
+2025-02-09 16:32:04,276 - INFO - Display updated - Meter balance for water: 164.74
+2025-02-09 16:32:04,277 - INFO - Usage simulation: water consumed 0.176 units
+2025-02-09 16:32:04,278 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:32:04,280 - INFO - Balance retrieved for leonard1@gmail.com: 26.059627188260343
+2025-02-09 16:32:04,281 - INFO - Updating balance for leonard1@gmail.com, water: -0.17884788262799622
+2025-02-09 16:32:04,286 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:32:04,286 - INFO - Display updated - Meter balance for water: 164.74
+2025-02-09 16:32:04,287 - INFO - Usage simulation: water consumed 0.179 units
+2025-02-09 16:32:34,585 - INFO - Display updated - Meter balance for water: 164.54
+2025-02-09 16:32:34,587 - INFO - Usage simulation: water consumed 0.199 units
+2025-02-09 16:32:34,588 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:32:34,591 - INFO - Balance retrieved for leonard1@gmail.com: 25.88077930563235
+2025-02-09 16:32:34,592 - INFO - Updating balance for leonard1@gmail.com, water: -0.19422057539882506
+2025-02-09 16:32:34,597 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:32:34,598 - INFO - Display updated - Meter balance for water: 164.54
+2025-02-09 16:32:34,598 - INFO - Usage simulation: water consumed 0.194 units
+2025-02-09 16:33:04,850 - INFO - Display updated - Meter balance for water: 164.31
+2025-02-09 16:33:04,851 - INFO - Usage simulation: water consumed 0.232 units
+2025-02-09 16:33:04,852 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:33:04,856 - INFO - Balance retrieved for leonard1@gmail.com: 25.686558730233525
+2025-02-09 16:33:04,857 - INFO - Updating balance for leonard1@gmail.com, water: -0.20704927424194175
+2025-02-09 16:33:04,862 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:33:04,863 - INFO - Display updated - Meter balance for water: 164.31
+2025-02-09 16:33:04,864 - INFO - Usage simulation: water consumed 0.207 units
+2025-02-09 16:33:35,159 - INFO - Display updated - Meter balance for water: 164.09
+2025-02-09 16:33:35,160 - INFO - Usage simulation: water consumed 0.214 units
+2025-02-09 16:33:35,160 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:33:35,163 - INFO - Balance retrieved for leonard1@gmail.com: 25.479509455991582
+2025-02-09 16:33:35,164 - INFO - Updating balance for leonard1@gmail.com, water: -0.2191782339918505
+2025-02-09 16:33:35,170 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:33:35,170 - INFO - Display updated - Meter balance for water: 164.09
+2025-02-09 16:33:35,171 - INFO - Usage simulation: water consumed 0.219 units
+2025-02-09 16:34:05,471 - INFO - Display updated - Meter balance for water: 163.87
+2025-02-09 16:34:05,472 - INFO - Usage simulation: water consumed 0.224 units
+2025-02-09 16:34:05,473 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:34:05,475 - INFO - Balance retrieved for leonard1@gmail.com: 25.26033122199973
+2025-02-09 16:34:05,477 - INFO - Updating balance for leonard1@gmail.com, water: -0.22980505850602806
+2025-02-09 16:34:05,485 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:34:05,485 - INFO - Display updated - Meter balance for water: 163.87
+2025-02-09 16:34:05,486 - INFO - Usage simulation: water consumed 0.230 units
+2025-02-09 16:34:35,739 - INFO - Display updated - Meter balance for water: 163.71
+2025-02-09 16:34:35,740 - INFO - Usage simulation: water consumed 0.161 units
+2025-02-09 16:34:35,741 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:34:35,744 - INFO - Balance retrieved for leonard1@gmail.com: 25.030526163493704
+2025-02-09 16:34:35,745 - INFO - Updating balance for leonard1@gmail.com, water: -0.21256511221232632
+2025-02-09 16:34:35,751 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:34:35,752 - INFO - Display updated - Meter balance for water: 163.71
+2025-02-09 16:34:35,753 - INFO - Usage simulation: water consumed 0.213 units
+2025-02-09 16:35:05,739 - INFO - Display updated - Meter balance for water: 163.47
+2025-02-09 16:35:05,740 - INFO - Usage simulation: water consumed 0.233 units
+2025-02-09 16:35:05,741 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:35:05,744 - INFO - Balance retrieved for leonard1@gmail.com: 24.817961051281376
+2025-02-09 16:35:05,745 - INFO - Updating balance for leonard1@gmail.com, water: -0.22376841105751952
+2025-02-09 16:35:05,751 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:35:05,751 - INFO - Display updated - Meter balance for water: 163.47
+2025-02-09 16:35:05,752 - INFO - Usage simulation: water consumed 0.224 units
+2025-02-09 16:35:35,741 - INFO - Display updated - Meter balance for water: 163.30
+2025-02-09 16:35:35,742 - INFO - Usage simulation: water consumed 0.176 units
+2025-02-09 16:35:35,743 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:35:35,746 - INFO - Balance retrieved for leonard1@gmail.com: 24.594192640223856
+2025-02-09 16:35:35,747 - INFO - Updating balance for leonard1@gmail.com, water: -0.18173124129237428
+2025-02-09 16:35:35,753 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:35:35,754 - INFO - Display updated - Meter balance for water: 163.30
+2025-02-09 16:35:35,755 - INFO - Usage simulation: water consumed 0.182 units
+2025-02-09 16:36:05,745 - INFO - Display updated - Meter balance for water: 163.11
+2025-02-09 16:36:05,746 - INFO - Usage simulation: water consumed 0.182 units
+2025-02-09 16:36:05,746 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:36:05,747 - INFO - Balance retrieved for leonard1@gmail.com: 24.41246139893148
+2025-02-09 16:36:05,749 - INFO - Updating balance for leonard1@gmail.com, water: -0.2140286453844067
+2025-02-09 16:36:05,752 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:36:05,752 - INFO - Display updated - Meter balance for water: 163.11
+2025-02-09 16:36:05,753 - INFO - Usage simulation: water consumed 0.214 units
+2025-02-09 16:36:35,752 - INFO - Display updated - Meter balance for water: 162.92
+2025-02-09 16:36:35,753 - INFO - Usage simulation: water consumed 0.194 units
+2025-02-09 16:36:35,754 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:36:35,756 - INFO - Balance retrieved for leonard1@gmail.com: 24.198432753547074
+2025-02-09 16:36:35,757 - INFO - Updating balance for leonard1@gmail.com, water: -0.2301902125458536
+2025-02-09 16:36:35,765 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:36:35,766 - INFO - Display updated - Meter balance for water: 162.92
+2025-02-09 16:36:35,767 - INFO - Usage simulation: water consumed 0.230 units
+2025-02-09 16:37:05,763 - INFO - Display updated - Meter balance for water: 162.76
+2025-02-09 16:37:05,764 - INFO - Usage simulation: water consumed 0.160 units
+2025-02-09 16:37:05,765 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:37:05,767 - INFO - Balance retrieved for leonard1@gmail.com: 23.96824254100122
+2025-02-09 16:37:05,769 - INFO - Updating balance for leonard1@gmail.com, water: -0.22519900101617468
+2025-02-09 16:37:05,774 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:37:05,775 - INFO - Display updated - Meter balance for water: 162.76
+2025-02-09 16:37:05,776 - INFO - Usage simulation: water consumed 0.225 units
+2025-02-09 16:37:35,781 - INFO - Display updated - Meter balance for water: 162.53
+2025-02-09 16:37:35,782 - INFO - Usage simulation: water consumed 0.230 units
+2025-02-09 16:37:35,783 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:37:35,786 - INFO - Balance retrieved for leonard1@gmail.com: 23.743043539985045
+2025-02-09 16:37:35,787 - INFO - Updating balance for leonard1@gmail.com, water: -0.1996899056126865
+2025-02-09 16:37:35,793 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:37:35,794 - INFO - Display updated - Meter balance for water: 162.53
+2025-02-09 16:37:35,794 - INFO - Usage simulation: water consumed 0.200 units
+2025-02-09 16:38:05,794 - INFO - Display updated - Meter balance for water: 162.36
+2025-02-09 16:38:05,795 - INFO - Usage simulation: water consumed 0.167 units
+2025-02-09 16:38:05,795 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:38:05,798 - INFO - Balance retrieved for leonard1@gmail.com: 23.54335363437236
+2025-02-09 16:38:05,798 - INFO - Updating balance for leonard1@gmail.com, water: -0.18295484583332453
+2025-02-09 16:38:05,803 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:38:05,804 - INFO - Display updated - Meter balance for water: 162.36
+2025-02-09 16:38:05,804 - INFO - Usage simulation: water consumed 0.183 units
+2025-02-09 16:38:35,809 - INFO - Display updated - Meter balance for water: 162.17
+2025-02-09 16:38:35,810 - INFO - Usage simulation: water consumed 0.197 units
+2025-02-09 16:38:35,811 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:38:35,812 - INFO - Balance retrieved for leonard1@gmail.com: 23.360398788539033
+2025-02-09 16:38:35,813 - INFO - Updating balance for leonard1@gmail.com, water: -0.20255442016151337
+2025-02-09 16:38:35,817 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:38:35,817 - INFO - Display updated - Meter balance for water: 162.17
+2025-02-09 16:38:35,818 - INFO - Usage simulation: water consumed 0.203 units
+2025-02-09 16:39:05,811 - INFO - Display updated - Meter balance for water: 161.96
+2025-02-09 16:39:05,812 - INFO - Usage simulation: water consumed 0.210 units
+2025-02-09 16:39:05,812 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:39:05,813 - INFO - Balance retrieved for leonard1@gmail.com: 23.15784436837752
+2025-02-09 16:39:05,814 - INFO - Updating balance for leonard1@gmail.com, water: -0.16608128764925667
+2025-02-09 16:39:05,819 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:39:05,819 - INFO - Display updated - Meter balance for water: 161.96
+2025-02-09 16:39:05,819 - INFO - Usage simulation: water consumed 0.166 units
+2025-02-09 16:39:35,813 - INFO - Display updated - Meter balance for water: 161.76
+2025-02-09 16:39:35,815 - INFO - Usage simulation: water consumed 0.193 units
+2025-02-09 16:39:35,816 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:39:35,818 - INFO - Balance retrieved for leonard1@gmail.com: 22.991763080728266
+2025-02-09 16:39:35,819 - INFO - Updating balance for leonard1@gmail.com, water: -0.17294255288433968
+2025-02-09 16:39:35,824 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:39:35,825 - INFO - Display updated - Meter balance for water: 161.76
+2025-02-09 16:39:35,825 - INFO - Usage simulation: water consumed 0.173 units
+2025-02-09 16:40:05,803 - INFO - Display updated - Meter balance for water: 161.60
+2025-02-09 16:40:05,804 - INFO - Usage simulation: water consumed 0.167 units
+2025-02-09 16:40:05,804 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:40:05,806 - INFO - Balance retrieved for leonard1@gmail.com: 22.818820527843926
+2025-02-09 16:40:05,807 - INFO - Updating balance for leonard1@gmail.com, water: -0.1917206876638758
+2025-02-09 16:40:05,811 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:40:05,812 - INFO - Display updated - Meter balance for water: 161.60
+2025-02-09 16:40:05,813 - INFO - Usage simulation: water consumed 0.192 units
+2025-02-09 16:40:35,806 - INFO - Display updated - Meter balance for water: 161.40
+2025-02-09 16:40:35,807 - INFO - Usage simulation: water consumed 0.201 units
+2025-02-09 16:40:35,808 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:40:35,811 - INFO - Balance retrieved for leonard1@gmail.com: 22.62709984018005
+2025-02-09 16:40:35,812 - INFO - Updating balance for leonard1@gmail.com, water: -0.22196994631801387
+2025-02-09 16:40:35,819 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:40:35,820 - INFO - Display updated - Meter balance for water: 161.40
+2025-02-09 16:40:35,820 - INFO - Usage simulation: water consumed 0.222 units
+2025-02-09 16:41:05,811 - INFO - Display updated - Meter balance for water: 161.19
+2025-02-09 16:41:05,812 - INFO - Usage simulation: water consumed 0.209 units
+2025-02-09 16:41:05,813 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:41:05,815 - INFO - Balance retrieved for leonard1@gmail.com: 22.405129893862036
+2025-02-09 16:41:05,816 - INFO - Updating balance for leonard1@gmail.com, water: -0.20652280785195726
+2025-02-09 16:41:05,821 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:41:05,821 - INFO - Display updated - Meter balance for water: 161.19
+2025-02-09 16:41:05,821 - INFO - Usage simulation: water consumed 0.207 units
+2025-02-09 16:41:35,822 - INFO - Display updated - Meter balance for water: 160.95
+2025-02-09 16:41:35,824 - INFO - Usage simulation: water consumed 0.235 units
+2025-02-09 16:41:35,824 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:41:35,828 - INFO - Balance retrieved for leonard1@gmail.com: 22.198607086010078
+2025-02-09 16:41:35,829 - INFO - Updating balance for leonard1@gmail.com, water: -0.21308181498758993
+2025-02-09 16:41:35,834 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:41:35,835 - INFO - Display updated - Meter balance for water: 160.95
+2025-02-09 16:41:35,836 - INFO - Usage simulation: water consumed 0.213 units
+2025-02-09 16:42:05,956 - INFO - Display updated - Meter balance for water: 160.76
+2025-02-09 16:42:05,957 - INFO - Usage simulation: water consumed 0.188 units
+2025-02-09 16:42:05,958 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:42:05,961 - INFO - Balance retrieved for leonard1@gmail.com: 21.98552527102249
+2025-02-09 16:42:05,962 - INFO - Updating balance for leonard1@gmail.com, water: -0.23631198836409428
+2025-02-09 16:42:05,965 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:42:05,966 - INFO - Display updated - Meter balance for water: 160.76
+2025-02-09 16:42:05,966 - INFO - Usage simulation: water consumed 0.236 units
+2025-02-09 16:42:35,949 - INFO - Display updated - Meter balance for water: 160.53
+2025-02-09 16:42:35,950 - INFO - Usage simulation: water consumed 0.236 units
+2025-02-09 16:42:35,951 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:42:35,953 - INFO - Balance retrieved for leonard1@gmail.com: 21.749213282658395
+2025-02-09 16:42:35,954 - INFO - Updating balance for leonard1@gmail.com, water: -0.21671363227282847
+2025-02-09 16:42:35,961 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:42:35,962 - INFO - Display updated - Meter balance for water: 160.53
+2025-02-09 16:42:35,963 - INFO - Usage simulation: water consumed 0.217 units
+2025-02-09 16:43:05,947 - INFO - Display updated - Meter balance for water: 160.32
+2025-02-09 16:43:05,948 - INFO - Usage simulation: water consumed 0.205 units
+2025-02-09 16:43:05,949 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:43:05,951 - INFO - Balance retrieved for leonard1@gmail.com: 21.532499650385567
+2025-02-09 16:43:05,952 - INFO - Updating balance for leonard1@gmail.com, water: -0.17737602528248197
+2025-02-09 16:43:05,956 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:43:05,956 - INFO - Display updated - Meter balance for water: 160.32
+2025-02-09 16:43:05,957 - INFO - Usage simulation: water consumed 0.177 units
+2025-02-09 16:43:35,964 - INFO - Display updated - Meter balance for water: 160.13
+2025-02-09 16:43:35,965 - INFO - Usage simulation: water consumed 0.191 units
+2025-02-09 16:43:35,966 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:43:35,968 - INFO - Balance retrieved for leonard1@gmail.com: 21.355123625103086
+2025-02-09 16:43:35,969 - INFO - Updating balance for leonard1@gmail.com, water: -0.1957372919497414
+2025-02-09 16:43:35,975 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:43:35,976 - INFO - Display updated - Meter balance for water: 160.13
+2025-02-09 16:43:35,977 - INFO - Usage simulation: water consumed 0.196 units
+2025-02-09 16:44:05,987 - INFO - Display updated - Meter balance for water: 159.93
+2025-02-09 16:44:05,988 - INFO - Usage simulation: water consumed 0.202 units
+2025-02-09 16:44:05,989 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:44:05,993 - INFO - Balance retrieved for leonard1@gmail.com: 21.159386333153346
+2025-02-09 16:44:05,993 - INFO - Updating balance for leonard1@gmail.com, water: -0.19009611013493088
+2025-02-09 16:44:06,000 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:44:06,000 - INFO - Display updated - Meter balance for water: 159.93
+2025-02-09 16:44:06,002 - INFO - Usage simulation: water consumed 0.190 units
+2025-02-09 16:44:35,980 - INFO - Display updated - Meter balance for water: 159.72
+2025-02-09 16:44:35,982 - INFO - Usage simulation: water consumed 0.208 units
+2025-02-09 16:44:35,982 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:44:35,985 - INFO - Balance retrieved for leonard1@gmail.com: 20.969290223018415
+2025-02-09 16:44:35,986 - INFO - Updating balance for leonard1@gmail.com, water: -0.20371319870500698
+2025-02-09 16:44:35,992 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:44:35,993 - INFO - Display updated - Meter balance for water: 159.72
+2025-02-09 16:44:35,994 - INFO - Usage simulation: water consumed 0.204 units
+2025-02-09 16:45:05,988 - INFO - Display updated - Meter balance for water: 159.52
+2025-02-09 16:45:05,989 - INFO - Usage simulation: water consumed 0.201 units
+2025-02-09 16:45:05,990 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:45:05,993 - INFO - Balance retrieved for leonard1@gmail.com: 20.76557702431341
+2025-02-09 16:45:05,994 - INFO - Updating balance for leonard1@gmail.com, water: -0.2200137677585104
+2025-02-09 16:45:06,000 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:45:06,001 - INFO - Display updated - Meter balance for water: 159.52
+2025-02-09 16:45:06,002 - INFO - Usage simulation: water consumed 0.220 units
+2025-02-09 16:45:36,038 - INFO - Display updated - Meter balance for water: 159.35
+2025-02-09 16:45:36,039 - INFO - Usage simulation: water consumed 0.168 units
+2025-02-09 16:45:36,039 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:45:36,041 - INFO - Balance retrieved for leonard1@gmail.com: 20.5455632565549
+2025-02-09 16:45:36,042 - INFO - Updating balance for leonard1@gmail.com, water: -0.2330909041274287
+2025-02-09 16:45:36,046 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:45:36,046 - INFO - Display updated - Meter balance for water: 159.35
+2025-02-09 16:45:36,047 - INFO - Usage simulation: water consumed 0.233 units
+2025-02-09 16:46:06,258 - INFO - Display updated - Meter balance for water: 159.19
+2025-02-09 16:46:06,259 - INFO - Usage simulation: water consumed 0.164 units
+2025-02-09 16:46:06,259 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:46:06,263 - INFO - Balance retrieved for leonard1@gmail.com: 20.31247235242747
+2025-02-09 16:46:06,264 - INFO - Updating balance for leonard1@gmail.com, water: -0.19112199099260826
+2025-02-09 16:46:06,269 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:46:06,270 - INFO - Display updated - Meter balance for water: 159.19
+2025-02-09 16:46:06,270 - INFO - Usage simulation: water consumed 0.191 units
+2025-02-09 16:46:36,271 - INFO - Display updated - Meter balance for water: 159.03
+2025-02-09 16:46:36,272 - INFO - Usage simulation: water consumed 0.165 units
+2025-02-09 16:46:36,273 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:46:36,275 - INFO - Balance retrieved for leonard1@gmail.com: 20.12135036143486
+2025-02-09 16:46:36,276 - INFO - Updating balance for leonard1@gmail.com, water: -0.1702463659771366
+2025-02-09 16:46:36,282 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:46:36,283 - INFO - Display updated - Meter balance for water: 159.03
+2025-02-09 16:46:36,284 - INFO - Usage simulation: water consumed 0.170 units
+2025-02-09 16:47:06,279 - INFO - Display updated - Meter balance for water: 158.85
+2025-02-09 16:47:06,280 - INFO - Usage simulation: water consumed 0.171 units
+2025-02-09 16:47:06,281 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:47:06,284 - INFO - Balance retrieved for leonard1@gmail.com: 19.951103995457725
+2025-02-09 16:47:06,284 - INFO - Updating balance for leonard1@gmail.com, water: -0.19099414935005699
+2025-02-09 16:47:06,291 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:47:06,292 - INFO - Display updated - Meter balance for water: 158.85
+2025-02-09 16:47:06,293 - INFO - Usage simulation: water consumed 0.191 units
+2025-02-09 16:47:36,297 - INFO - Display updated - Meter balance for water: 158.64
+2025-02-09 16:47:36,298 - INFO - Usage simulation: water consumed 0.216 units
+2025-02-09 16:47:36,299 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:47:36,302 - INFO - Balance retrieved for leonard1@gmail.com: 19.760109846107667
+2025-02-09 16:47:36,303 - INFO - Updating balance for leonard1@gmail.com, water: -0.19556126582403527
+2025-02-09 16:47:36,310 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:47:36,311 - INFO - Display updated - Meter balance for water: 158.64
+2025-02-09 16:47:36,312 - INFO - Usage simulation: water consumed 0.196 units
+2025-02-09 16:48:06,587 - INFO - Display updated - Meter balance for water: 158.44
+2025-02-09 16:48:06,588 - INFO - Usage simulation: water consumed 0.203 units
+2025-02-09 16:48:06,589 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:48:06,592 - INFO - Balance retrieved for leonard1@gmail.com: 19.56454858028363
+2025-02-09 16:48:06,593 - INFO - Updating balance for leonard1@gmail.com, water: -0.18327775964033438
+2025-02-09 16:48:06,599 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:48:06,600 - INFO - Display updated - Meter balance for water: 158.44
+2025-02-09 16:48:06,601 - INFO - Usage simulation: water consumed 0.183 units
+2025-02-09 16:48:36,915 - INFO - Display updated - Meter balance for water: 158.27
+2025-02-09 16:48:36,916 - INFO - Usage simulation: water consumed 0.162 units
+2025-02-09 16:48:36,917 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:48:36,920 - INFO - Balance retrieved for leonard1@gmail.com: 19.381270820643298
+2025-02-09 16:48:36,921 - INFO - Updating balance for leonard1@gmail.com, water: -0.18467619263564367
+2025-02-09 16:48:36,926 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:48:36,927 - INFO - Display updated - Meter balance for water: 158.27
+2025-02-09 16:48:36,928 - INFO - Usage simulation: water consumed 0.185 units
+2025-02-09 16:49:07,221 - INFO - Display updated - Meter balance for water: 158.04
+2025-02-09 16:49:07,222 - INFO - Usage simulation: water consumed 0.237 units
+2025-02-09 16:49:07,223 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:49:07,226 - INFO - Balance retrieved for leonard1@gmail.com: 19.196594628007656
+2025-02-09 16:49:07,227 - INFO - Updating balance for leonard1@gmail.com, water: -0.16464597020310057
+2025-02-09 16:49:07,234 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:49:07,234 - INFO - Display updated - Meter balance for water: 158.04
+2025-02-09 16:49:07,235 - INFO - Usage simulation: water consumed 0.165 units
+2025-02-09 16:49:37,548 - INFO - Display updated - Meter balance for water: 157.82
+2025-02-09 16:49:37,549 - INFO - Usage simulation: water consumed 0.217 units
+2025-02-09 16:49:37,550 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:49:37,552 - INFO - Balance retrieved for leonard1@gmail.com: 19.031948657804556
+2025-02-09 16:49:37,553 - INFO - Updating balance for leonard1@gmail.com, water: -0.222158991464294
+2025-02-09 16:49:37,559 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:49:37,560 - INFO - Display updated - Meter balance for water: 157.82
+2025-02-09 16:49:37,560 - INFO - Usage simulation: water consumed 0.222 units
+2025-02-09 16:50:07,854 - INFO - Display updated - Meter balance for water: 157.65
+2025-02-09 16:50:07,856 - INFO - Usage simulation: water consumed 0.167 units
+2025-02-09 16:50:07,856 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:50:07,857 - INFO - Balance retrieved for leonard1@gmail.com: 18.80978966634026
+2025-02-09 16:50:07,858 - INFO - Updating balance for leonard1@gmail.com, water: -0.21914650121532306
+2025-02-09 16:50:07,863 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:50:07,863 - INFO - Display updated - Meter balance for water: 157.65
+2025-02-09 16:50:07,864 - INFO - Usage simulation: water consumed 0.219 units
+2025-02-09 16:50:38,119 - INFO - Display updated - Meter balance for water: 157.45
+2025-02-09 16:50:38,120 - INFO - Usage simulation: water consumed 0.198 units
+2025-02-09 16:50:38,120 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:50:38,122 - INFO - Balance retrieved for leonard1@gmail.com: 18.590643165124938
+2025-02-09 16:50:38,123 - INFO - Updating balance for leonard1@gmail.com, water: -0.169579853667823
+2025-02-09 16:50:38,127 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:50:38,127 - INFO - Display updated - Meter balance for water: 157.45
+2025-02-09 16:50:38,129 - INFO - Usage simulation: water consumed 0.170 units
+2025-02-09 16:51:08,462 - INFO - Display updated - Meter balance for water: 157.27
+2025-02-09 16:51:08,462 - INFO - Usage simulation: water consumed 0.186 units
+2025-02-09 16:51:08,463 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:51:08,466 - INFO - Balance retrieved for leonard1@gmail.com: 18.421063311457115
+2025-02-09 16:51:08,467 - INFO - Updating balance for leonard1@gmail.com, water: -0.2058372949232759
+2025-02-09 16:51:08,472 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:51:08,474 - INFO - Display updated - Meter balance for water: 157.27
+2025-02-09 16:51:08,476 - INFO - Usage simulation: water consumed 0.206 units
+2025-02-09 16:51:38,778 - INFO - Display updated - Meter balance for water: 157.04
+2025-02-09 16:51:38,779 - INFO - Usage simulation: water consumed 0.225 units
+2025-02-09 16:51:38,780 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:51:38,783 - INFO - Balance retrieved for leonard1@gmail.com: 18.215226016533837
+2025-02-09 16:51:38,784 - INFO - Updating balance for leonard1@gmail.com, water: -0.2120846080603107
+2025-02-09 16:51:38,791 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:51:38,791 - INFO - Display updated - Meter balance for water: 157.04
+2025-02-09 16:51:38,792 - INFO - Usage simulation: water consumed 0.212 units
+2025-02-09 16:52:09,094 - INFO - Display updated - Meter balance for water: 156.87
+2025-02-09 16:52:09,095 - INFO - Usage simulation: water consumed 0.172 units
+2025-02-09 16:52:09,096 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:52:09,098 - INFO - Balance retrieved for leonard1@gmail.com: 18.003141408473525
+2025-02-09 16:52:09,099 - INFO - Updating balance for leonard1@gmail.com, water: -0.16005322484103646
+2025-02-09 16:52:09,106 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:52:09,107 - INFO - Display updated - Meter balance for water: 156.87
+2025-02-09 16:52:09,107 - INFO - Usage simulation: water consumed 0.160 units
+2025-02-09 16:52:39,094 - INFO - Display updated - Meter balance for water: 156.69
+2025-02-09 16:52:39,096 - INFO - Usage simulation: water consumed 0.180 units
+2025-02-09 16:52:39,096 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:52:39,099 - INFO - Balance retrieved for leonard1@gmail.com: 17.84308818363249
+2025-02-09 16:52:39,099 - INFO - Updating balance for leonard1@gmail.com, water: -0.207103010297916
+2025-02-09 16:52:39,104 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:52:39,105 - INFO - Display updated - Meter balance for water: 156.69
+2025-02-09 16:52:39,105 - INFO - Usage simulation: water consumed 0.207 units
+2025-02-09 16:53:09,102 - INFO - Display updated - Meter balance for water: 156.51
+2025-02-09 16:53:09,102 - INFO - Usage simulation: water consumed 0.185 units
+2025-02-09 16:53:09,104 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:53:09,110 - INFO - Balance retrieved for leonard1@gmail.com: 17.63598517333457
+2025-02-09 16:53:09,111 - INFO - Updating balance for leonard1@gmail.com, water: -0.20335696930975167
+2025-02-09 16:53:09,116 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:53:09,117 - INFO - Display updated - Meter balance for water: 156.51
+2025-02-09 16:53:09,118 - INFO - Usage simulation: water consumed 0.203 units
+2025-02-09 16:53:39,102 - INFO - Display updated - Meter balance for water: 156.27
+2025-02-09 16:53:39,103 - INFO - Usage simulation: water consumed 0.237 units
+2025-02-09 16:53:39,104 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:53:39,106 - INFO - Balance retrieved for leonard1@gmail.com: 17.43262820402482
+2025-02-09 16:53:39,107 - INFO - Updating balance for leonard1@gmail.com, water: -0.22089449734111694
+2025-02-09 16:53:39,113 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:53:39,114 - INFO - Display updated - Meter balance for water: 156.27
+2025-02-09 16:53:39,115 - INFO - Usage simulation: water consumed 0.221 units
+2025-02-09 16:54:09,102 - INFO - Display updated - Meter balance for water: 156.09
+2025-02-09 16:54:09,102 - INFO - Usage simulation: water consumed 0.176 units
+2025-02-09 16:54:09,103 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:54:09,104 - INFO - Balance retrieved for leonard1@gmail.com: 17.211733706683702
+2025-02-09 16:54:09,104 - INFO - Updating balance for leonard1@gmail.com, water: -0.21451926226510146
+2025-02-09 16:54:09,109 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:54:09,109 - INFO - Display updated - Meter balance for water: 156.09
+2025-02-09 16:54:09,109 - INFO - Usage simulation: water consumed 0.215 units
+2025-02-09 16:54:39,114 - INFO - Display updated - Meter balance for water: 155.86
+2025-02-09 16:54:39,115 - INFO - Usage simulation: water consumed 0.230 units
+2025-02-09 16:54:39,115 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:54:39,118 - INFO - Balance retrieved for leonard1@gmail.com: 16.9972144444186
+2025-02-09 16:54:39,119 - INFO - Updating balance for leonard1@gmail.com, water: -0.18245140348020825
+2025-02-09 16:54:39,123 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:54:39,123 - INFO - Display updated - Meter balance for water: 155.86
+2025-02-09 16:54:39,124 - INFO - Usage simulation: water consumed 0.182 units
+2025-02-09 16:55:09,128 - INFO - Display updated - Meter balance for water: 155.68
+2025-02-09 16:55:09,129 - INFO - Usage simulation: water consumed 0.185 units
+2025-02-09 16:55:09,130 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:55:09,133 - INFO - Balance retrieved for leonard1@gmail.com: 16.81476304093839
+2025-02-09 16:55:09,134 - INFO - Updating balance for leonard1@gmail.com, water: -0.23696468972270926
+2025-02-09 16:55:09,140 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:55:09,141 - INFO - Display updated - Meter balance for water: 155.68
+2025-02-09 16:55:09,141 - INFO - Usage simulation: water consumed 0.237 units
+2025-02-09 16:55:39,143 - INFO - Display updated - Meter balance for water: 155.52
+2025-02-09 16:55:39,144 - INFO - Usage simulation: water consumed 0.161 units
+2025-02-09 16:55:39,145 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:55:39,147 - INFO - Balance retrieved for leonard1@gmail.com: 16.577798351215684
+2025-02-09 16:55:39,148 - INFO - Updating balance for leonard1@gmail.com, water: -0.18202547330119706
+2025-02-09 16:55:39,154 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:55:39,155 - INFO - Display updated - Meter balance for water: 155.52
+2025-02-09 16:55:39,157 - INFO - Usage simulation: water consumed 0.182 units
+2025-02-09 16:56:09,430 - INFO - Display updated - Meter balance for water: 155.34
+2025-02-09 16:56:09,431 - INFO - Usage simulation: water consumed 0.176 units
+2025-02-09 16:56:09,432 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:56:09,433 - INFO - Balance retrieved for leonard1@gmail.com: 16.395772877914485
+2025-02-09 16:56:09,434 - INFO - Updating balance for leonard1@gmail.com, water: -0.16210575736169805
+2025-02-09 16:56:09,439 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:56:09,439 - INFO - Display updated - Meter balance for water: 155.34
+2025-02-09 16:56:09,440 - INFO - Usage simulation: water consumed 0.162 units
+2025-02-09 16:56:39,703 - INFO - Display updated - Meter balance for water: 155.16
+2025-02-09 16:56:39,704 - INFO - Usage simulation: water consumed 0.183 units
+2025-02-09 16:56:39,705 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:56:39,707 - INFO - Balance retrieved for leonard1@gmail.com: 16.233667120552788
+2025-02-09 16:56:39,708 - INFO - Updating balance for leonard1@gmail.com, water: -0.21870298662936163
+2025-02-09 16:56:39,714 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:56:39,715 - INFO - Display updated - Meter balance for water: 155.16
+2025-02-09 16:56:39,715 - INFO - Usage simulation: water consumed 0.219 units
+2025-02-09 16:57:09,903 - INFO - Display updated - Meter balance for water: 154.93
+2025-02-09 16:57:09,904 - INFO - Usage simulation: water consumed 0.228 units
+2025-02-09 16:57:09,904 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:57:09,907 - INFO - Balance retrieved for leonard1@gmail.com: 16.014964133923428
+2025-02-09 16:57:09,907 - INFO - Updating balance for leonard1@gmail.com, water: -0.19181833312844174
+2025-02-09 16:57:09,914 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:57:09,914 - INFO - Display updated - Meter balance for water: 154.93
+2025-02-09 16:57:09,915 - INFO - Usage simulation: water consumed 0.192 units
+2025-02-09 16:57:39,913 - INFO - Display updated - Meter balance for water: 154.70
+2025-02-09 16:57:39,914 - INFO - Usage simulation: water consumed 0.230 units
+2025-02-09 16:57:39,914 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:57:39,916 - INFO - Balance retrieved for leonard1@gmail.com: 15.823145800794986
+2025-02-09 16:57:39,916 - INFO - Updating balance for leonard1@gmail.com, water: -0.16962209012445376
+2025-02-09 16:57:39,920 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:57:39,921 - INFO - Display updated - Meter balance for water: 154.70
+2025-02-09 16:57:39,922 - INFO - Usage simulation: water consumed 0.170 units
+2025-02-09 16:58:09,938 - INFO - Display updated - Meter balance for water: 154.53
+2025-02-09 16:58:09,940 - INFO - Usage simulation: water consumed 0.166 units
+2025-02-09 16:58:09,941 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:58:09,944 - INFO - Balance retrieved for leonard1@gmail.com: 15.653523710670532
+2025-02-09 16:58:09,944 - INFO - Updating balance for leonard1@gmail.com, water: -0.1963770655523258
+2025-02-09 16:58:09,951 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:58:09,952 - INFO - Display updated - Meter balance for water: 154.53
+2025-02-09 16:58:09,953 - INFO - Usage simulation: water consumed 0.196 units
+2025-02-09 16:58:39,953 - INFO - Display updated - Meter balance for water: 154.32
+2025-02-09 16:58:39,953 - INFO - Usage simulation: water consumed 0.212 units
+2025-02-09 16:58:39,954 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:58:39,955 - INFO - Balance retrieved for leonard1@gmail.com: 15.457146645118206
+2025-02-09 16:58:39,956 - INFO - Updating balance for leonard1@gmail.com, water: -0.17224819499636784
+2025-02-09 16:58:39,960 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:58:39,960 - INFO - Display updated - Meter balance for water: 154.32
+2025-02-09 16:58:39,961 - INFO - Usage simulation: water consumed 0.172 units
+2025-02-09 16:59:10,174 - INFO - Display updated - Meter balance for water: 154.10
+2025-02-09 16:59:10,175 - INFO - Usage simulation: water consumed 0.228 units
+2025-02-09 16:59:10,176 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:59:10,178 - INFO - Balance retrieved for leonard1@gmail.com: 15.284898450121839
+2025-02-09 16:59:10,179 - INFO - Updating balance for leonard1@gmail.com, water: -0.22749839457748067
+2025-02-09 16:59:10,186 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:59:10,187 - INFO - Display updated - Meter balance for water: 154.10
+2025-02-09 16:59:10,187 - INFO - Usage simulation: water consumed 0.227 units
+2025-02-09 16:59:40,456 - INFO - Display updated - Meter balance for water: 153.88
+2025-02-09 16:59:40,456 - INFO - Usage simulation: water consumed 0.219 units
+2025-02-09 16:59:40,457 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 16:59:40,459 - INFO - Balance retrieved for leonard1@gmail.com: 15.057400055544358
+2025-02-09 16:59:40,460 - INFO - Updating balance for leonard1@gmail.com, water: -0.21687011681480223
+2025-02-09 16:59:40,466 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 16:59:40,467 - INFO - Display updated - Meter balance for water: 153.88
+2025-02-09 16:59:40,467 - INFO - Usage simulation: water consumed 0.217 units
+2025-02-09 17:00:09,107 - INFO - Display updated - Meter balance for gas: 0.00
+2025-02-09 17:00:10,445 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:00:10,448 - INFO - Balance retrieved for leonard1@gmail.com: 149.9328322015262
+2025-02-09 17:00:10,450 - INFO - Updating balance for leonard1@gmail.com, gas: -0.20731369308366251
+2025-02-09 17:00:10,456 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:00:10,457 - INFO - Display updated - Meter balance for gas: 0.00
+2025-02-09 17:00:10,458 - INFO - Usage simulation: gas consumed 0.207 units
+2025-02-09 17:00:15,440 - INFO - Token validation attempt - Raw token: 1492-8602-1771-1250
+2025-02-09 17:00:15,441 - INFO - Searching for token: 1492-8602-1771-1250 for gas
+2025-02-09 17:00:15,443 - INFO - Valid active token found: 1492-8602-1771-1250
+2025-02-09 17:00:15,444 - INFO - Valid token found: 1492-8602-1771-1250
+2025-02-09 17:00:17,521 - INFO - Updating token status for ID: 67a36d9b1b627cacb1396258
+2025-02-09 17:00:17,526 - INFO - Token status updated to 'used': 67a36d9b1b627cacb1396258
+2025-02-09 17:00:17,526 - INFO - Recharge successful - Added 15 units to meter balance
+2025-02-09 17:00:17,528 - INFO - Display updated - Meter balance for gas: 15.00
+2025-02-09 17:00:40,455 - INFO - Display updated - Meter balance for gas: 14.79
+2025-02-09 17:00:40,456 - INFO - Usage simulation: gas consumed 0.214 units
+2025-02-09 17:00:40,456 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:00:40,458 - INFO - Balance retrieved for leonard1@gmail.com: 134.72551850844255
+2025-02-09 17:00:40,459 - INFO - Updating balance for leonard1@gmail.com, gas: -0.23915872364195523
+2025-02-09 17:00:40,464 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:00:40,465 - INFO - Display updated - Meter balance for gas: 14.79
+2025-02-09 17:00:40,465 - INFO - Usage simulation: gas consumed 0.239 units
+2025-02-09 17:01:09,752 - INFO - Token validation attempt - Raw token: 1262-9352-3115-3067
+2025-02-09 17:01:09,753 - INFO - Searching for token: 1262-9352-3115-3067 for gas
+2025-02-09 17:01:09,756 - INFO - Valid active token found: 1262-9352-3115-3067
+2025-02-09 17:01:09,757 - INFO - Valid token found: 1262-9352-3115-3067
+2025-02-09 17:01:11,830 - INFO - Updating token status for ID: 67a1d27f935e73ba306b008a
+2025-02-09 17:01:11,835 - INFO - Token status updated to 'used': 67a1d27f935e73ba306b008a
+2025-02-09 17:01:11,837 - INFO - Recharge successful - Added 7 units to meter balance
+2025-02-09 17:01:11,837 - INFO - Display updated - Meter balance for gas: 21.79
+2025-02-09 17:01:11,861 - INFO - Display updated - Meter balance for gas: 21.55
+2025-02-09 17:01:11,862 - INFO - Usage simulation: gas consumed 0.238 units
+2025-02-09 17:01:11,862 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:01:11,864 - INFO - Balance retrieved for leonard1@gmail.com: 127.48635978480058
+2025-02-09 17:01:11,864 - INFO - Updating balance for leonard1@gmail.com, gas: -0.16782488055327016
+2025-02-09 17:01:11,868 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:01:11,868 - INFO - Display updated - Meter balance for gas: 21.55
+2025-02-09 17:01:11,869 - INFO - Usage simulation: gas consumed 0.168 units
+2025-02-09 17:01:40,518 - INFO - Display updated - Meter balance for gas: 21.39
+2025-02-09 17:01:40,519 - INFO - Usage simulation: gas consumed 0.162 units
+2025-02-09 17:01:40,519 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:01:40,521 - INFO - Balance retrieved for leonard1@gmail.com: 127.31853490424731
+2025-02-09 17:01:40,521 - INFO - Updating balance for leonard1@gmail.com, gas: -0.18008427808643612
+2025-02-09 17:01:40,528 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:01:40,529 - INFO - Display updated - Meter balance for gas: 21.39
+2025-02-09 17:01:40,530 - INFO - Usage simulation: gas consumed 0.180 units
+2025-02-09 17:02:10,529 - INFO - Display updated - Meter balance for gas: 21.17
+2025-02-09 17:02:10,531 - INFO - Usage simulation: gas consumed 0.216 units
+2025-02-09 17:02:10,531 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:02:10,535 - INFO - Balance retrieved for leonard1@gmail.com: 127.13845062616087
+2025-02-09 17:02:10,535 - INFO - Updating balance for leonard1@gmail.com, gas: -0.17652567050126308
+2025-02-09 17:02:10,543 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:02:10,544 - INFO - Display updated - Meter balance for gas: 21.17
+2025-02-09 17:02:10,544 - INFO - Usage simulation: gas consumed 0.177 units
+2025-02-09 17:02:40,521 - INFO - Display updated - Meter balance for gas: 21.00
+2025-02-09 17:02:40,522 - INFO - Usage simulation: gas consumed 0.174 units
+2025-02-09 17:02:40,522 - INFO - Fetching balance for leonard1@gmail.com, gas
+2025-02-09 17:02:40,523 - INFO - Balance retrieved for leonard1@gmail.com: 126.96192495565961
+2025-02-09 17:02:40,524 - INFO - Updating balance for leonard1@gmail.com, gas: -0.17786231080869275
+2025-02-09 17:02:40,529 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:02:40,529 - INFO - Display updated - Meter balance for gas: 21.00
+2025-02-09 17:02:40,529 - INFO - Usage simulation: gas consumed 0.178 units
+2025-02-09 17:02:46,948 - INFO - Display updated - Meter balance for energy: 0.00
+2025-02-09 17:02:51,112 - INFO - Token validation attempt - Raw token: 0802-5483-2650-2994
+2025-02-09 17:02:51,113 - INFO - Searching for token: 0802-5483-2650-2994 for energy
+2025-02-09 17:02:51,116 - INFO - Valid active token found: 0802-5483-2650-2994
+2025-02-09 17:02:51,116 - INFO - Valid token found: 0802-5483-2650-2994
+2025-02-09 17:02:53,187 - INFO - Updating token status for ID: 67a368bc1b627cacb1396256
+2025-02-09 17:02:53,192 - INFO - Token status updated to 'used': 67a368bc1b627cacb1396256
+2025-02-09 17:02:53,193 - INFO - Recharge successful - Added 155 units to meter balance
+2025-02-09 17:02:53,193 - INFO - Display updated - Meter balance for energy: 155.00
+2025-02-09 17:03:10,544 - INFO - Display updated - Meter balance for energy: 154.70
+2025-02-09 17:03:10,545 - INFO - Usage simulation: energy consumed 0.304 units
+2025-02-09 17:03:10,545 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:03:10,547 - INFO - Balance retrieved for leonard1@gmail.com: 974
+2025-02-09 17:03:10,548 - INFO - Updating balance for leonard1@gmail.com, energy: -0.35700018033191444
+2025-02-09 17:03:10,551 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:03:10,551 - INFO - Display updated - Meter balance for energy: 154.70
+2025-02-09 17:03:10,551 - INFO - Usage simulation: energy consumed 0.357 units
+2025-02-09 17:03:40,790 - INFO - Display updated - Meter balance for energy: 154.39
+2025-02-09 17:03:40,791 - INFO - Usage simulation: energy consumed 0.308 units
+2025-02-09 17:03:40,791 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:03:40,795 - INFO - Balance retrieved for leonard1@gmail.com: 973.642999819668
+2025-02-09 17:03:40,796 - INFO - Updating balance for leonard1@gmail.com, energy: -0.2597908996773137
+2025-02-09 17:03:40,802 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:03:40,802 - INFO - Display updated - Meter balance for energy: 154.39
+2025-02-09 17:03:40,802 - INFO - Usage simulation: energy consumed 0.260 units
+2025-02-09 17:03:51,528 - INFO - Token validation attempt - Raw token: 
+2025-02-09 17:03:51,531 - WARNING - Invalid token format: 
+2025-02-09 17:04:11,001 - INFO - Display updated - Meter balance for energy: 154.11
+2025-02-09 17:04:11,002 - INFO - Usage simulation: energy consumed 0.283 units
+2025-02-09 17:04:11,002 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:04:11,005 - INFO - Balance retrieved for leonard1@gmail.com: 973.3832089199907
+2025-02-09 17:04:11,006 - INFO - Updating balance for leonard1@gmail.com, energy: -0.3357265663791407
+2025-02-09 17:04:11,012 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:04:11,012 - INFO - Display updated - Meter balance for energy: 154.11
+2025-02-09 17:04:11,013 - INFO - Usage simulation: energy consumed 0.336 units
+2025-02-09 17:04:41,289 - INFO - Display updated - Meter balance for energy: 153.77
+2025-02-09 17:04:41,289 - INFO - Usage simulation: energy consumed 0.337 units
+2025-02-09 17:04:41,290 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:04:41,291 - INFO - Balance retrieved for leonard1@gmail.com: 973.0474823536116
+2025-02-09 17:04:41,292 - INFO - Updating balance for leonard1@gmail.com, energy: -0.3562164940315122
+2025-02-09 17:04:41,297 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:04:41,297 - INFO - Display updated - Meter balance for energy: 153.77
+2025-02-09 17:04:41,298 - INFO - Usage simulation: energy consumed 0.356 units
+2025-02-09 17:05:11,289 - INFO - Display updated - Meter balance for energy: 153.50
+2025-02-09 17:05:11,289 - INFO - Usage simulation: energy consumed 0.265 units
+2025-02-09 17:05:11,289 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:05:11,291 - INFO - Balance retrieved for leonard1@gmail.com: 972.6912658595801
+2025-02-09 17:05:11,292 - INFO - Updating balance for leonard1@gmail.com, energy: -0.2749369626045739
+2025-02-09 17:05:11,295 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:05:11,296 - INFO - Display updated - Meter balance for energy: 153.50
+2025-02-09 17:05:11,296 - INFO - Usage simulation: energy consumed 0.275 units
+2025-02-09 17:05:41,310 - INFO - Display updated - Meter balance for energy: 153.19
+2025-02-09 17:05:41,311 - INFO - Usage simulation: energy consumed 0.317 units
+2025-02-09 17:05:41,312 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:05:41,314 - INFO - Balance retrieved for leonard1@gmail.com: 972.4163288969755
+2025-02-09 17:05:41,315 - INFO - Updating balance for leonard1@gmail.com, energy: -0.3482979081813198
+2025-02-09 17:05:41,322 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:05:41,323 - INFO - Display updated - Meter balance for energy: 153.19
+2025-02-09 17:05:41,324 - INFO - Usage simulation: energy consumed 0.348 units
+2025-02-09 17:06:11,316 - INFO - Display updated - Meter balance for energy: 152.86
+2025-02-09 17:06:11,317 - INFO - Usage simulation: energy consumed 0.325 units
+2025-02-09 17:06:11,317 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:06:11,319 - INFO - Balance retrieved for leonard1@gmail.com: 972.0680309887942
+2025-02-09 17:06:11,320 - INFO - Updating balance for leonard1@gmail.com, energy: -0.25357643906379945
+2025-02-09 17:06:11,323 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:06:11,324 - INFO - Display updated - Meter balance for energy: 152.86
+2025-02-09 17:06:11,325 - INFO - Usage simulation: energy consumed 0.254 units
+2025-02-09 17:06:41,406 - INFO - Display updated - Meter balance for energy: 152.53
+2025-02-09 17:06:41,408 - INFO - Usage simulation: energy consumed 0.336 units
+2025-02-09 17:06:41,408 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:06:41,411 - INFO - Balance retrieved for leonard1@gmail.com: 971.8144545497305
+2025-02-09 17:06:41,412 - INFO - Updating balance for leonard1@gmail.com, energy: -0.28643865599480933
+2025-02-09 17:06:41,419 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:06:41,420 - INFO - Display updated - Meter balance for energy: 152.53
+2025-02-09 17:06:41,421 - INFO - Usage simulation: energy consumed 0.286 units
+2025-02-09 17:07:11,609 - INFO - Display updated - Meter balance for energy: 152.18
+2025-02-09 17:07:11,610 - INFO - Usage simulation: energy consumed 0.346 units
+2025-02-09 17:07:11,611 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:07:11,614 - INFO - Balance retrieved for leonard1@gmail.com: 971.5280158937356
+2025-02-09 17:07:11,615 - INFO - Updating balance for leonard1@gmail.com, energy: -0.34970051924879925
+2025-02-09 17:07:11,628 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:07:11,628 - INFO - Display updated - Meter balance for energy: 152.18
+2025-02-09 17:07:11,629 - INFO - Usage simulation: energy consumed 0.350 units
+2025-02-09 17:07:41,620 - INFO - Display updated - Meter balance for energy: 151.90
+2025-02-09 17:07:41,620 - INFO - Usage simulation: energy consumed 0.278 units
+2025-02-09 17:07:41,621 - INFO - Fetching balance for leonard1@gmail.com, energy
+2025-02-09 17:07:41,622 - INFO - Balance retrieved for leonard1@gmail.com: 971.1783153744868
+2025-02-09 17:07:41,623 - INFO - Updating balance for leonard1@gmail.com, energy: -0.2785930229494724
+2025-02-09 17:07:41,627 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:07:41,627 - INFO - Display updated - Meter balance for energy: 151.90
+2025-02-09 17:07:41,628 - INFO - Usage simulation: energy consumed 0.279 units
+2025-02-09 17:09:49,098 - INFO - Meter Emulator application starting...
+2025-02-09 17:09:49,109 - INFO - Successfully connected to database: token_meter_recharge
+2025-02-09 17:09:49,109 - INFO - Database connection established successfully
+2025-02-09 17:10:07,085 - INFO - Attempting authentication for email: leonard1@gmail.com
+2025-02-09 17:10:07,086 - INFO - Attempting to authenticate user: leonard1@gmail.com
+2025-02-09 17:10:07,103 - INFO - User found: leonard1@gmail.com
+2025-02-09 17:10:07,103 - INFO - Authentication successful for user: leonard1@gmail.com
+2025-02-09 17:10:09,413 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:10:19,101 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:10:19,104 - INFO - Balance retrieved for leonard1@gmail.com: 14.840529938729556
+2025-02-09 17:10:19,105 - INFO - Updating balance for leonard1@gmail.com, water: -0.22902096538181646
+2025-02-09 17:10:19,110 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:10:19,112 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:10:19,113 - INFO - Usage simulation: water consumed 0.229 units
+2025-02-09 17:10:49,104 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:10:49,107 - INFO - Balance retrieved for leonard1@gmail.com: 14.61150897334774
+2025-02-09 17:10:49,107 - INFO - Updating balance for leonard1@gmail.com, water: -0.2202775083583891
+2025-02-09 17:10:49,113 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:10:49,113 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:10:49,114 - INFO - Usage simulation: water consumed 0.220 units
+2025-02-09 17:11:19,121 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:11:19,124 - INFO - Balance retrieved for leonard1@gmail.com: 14.391231464989351
+2025-02-09 17:11:19,125 - INFO - Updating balance for leonard1@gmail.com, water: -0.23758215666934077
+2025-02-09 17:11:19,130 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:11:19,131 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:11:19,131 - INFO - Usage simulation: water consumed 0.238 units
+2025-02-09 17:11:49,141 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:11:49,144 - INFO - Balance retrieved for leonard1@gmail.com: 14.153649308320011
+2025-02-09 17:11:49,145 - INFO - Updating balance for leonard1@gmail.com, water: -0.23939289701200084
+2025-02-09 17:11:49,150 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:11:49,151 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:11:49,151 - INFO - Usage simulation: water consumed 0.239 units
+2025-02-09 17:12:19,198 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:12:19,202 - INFO - Balance retrieved for leonard1@gmail.com: 13.91425641130801
+2025-02-09 17:12:19,203 - INFO - Updating balance for leonard1@gmail.com, water: -0.18068184320307068
+2025-02-09 17:12:19,209 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:12:19,210 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:12:19,211 - INFO - Usage simulation: water consumed 0.181 units
+2025-02-09 17:12:49,338 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:12:49,340 - INFO - Balance retrieved for leonard1@gmail.com: 13.73357456810494
+2025-02-09 17:12:49,340 - INFO - Updating balance for leonard1@gmail.com, water: -0.20331388049412796
+2025-02-09 17:12:49,347 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:12:49,347 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:12:49,348 - INFO - Usage simulation: water consumed 0.203 units
+2025-02-09 17:13:19,354 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:13:19,357 - INFO - Balance retrieved for leonard1@gmail.com: 13.530260687610811
+2025-02-09 17:13:19,358 - INFO - Updating balance for leonard1@gmail.com, water: -0.17954563161190737
+2025-02-09 17:13:19,363 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:13:19,363 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:13:19,365 - INFO - Usage simulation: water consumed 0.180 units
+2025-02-09 17:13:49,361 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:13:49,363 - INFO - Balance retrieved for leonard1@gmail.com: 13.350715055998904
+2025-02-09 17:13:49,364 - INFO - Updating balance for leonard1@gmail.com, water: -0.23681618925501324
+2025-02-09 17:13:49,371 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:13:49,372 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:13:49,373 - INFO - Usage simulation: water consumed 0.237 units
+2025-02-09 17:14:19,359 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:14:19,362 - INFO - Balance retrieved for leonard1@gmail.com: 13.113898866743892
+2025-02-09 17:14:19,363 - INFO - Updating balance for leonard1@gmail.com, water: -0.22592683826247992
+2025-02-09 17:14:19,370 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:14:19,371 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:14:19,372 - INFO - Usage simulation: water consumed 0.226 units
+2025-02-09 17:14:49,356 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:14:49,359 - INFO - Balance retrieved for leonard1@gmail.com: 12.887972028481412
+2025-02-09 17:14:49,360 - INFO - Updating balance for leonard1@gmail.com, water: -0.20940194687786642
+2025-02-09 17:14:49,365 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:14:49,365 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:14:49,366 - INFO - Usage simulation: water consumed 0.209 units
+2025-02-09 17:15:19,625 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:15:19,629 - INFO - Balance retrieved for leonard1@gmail.com: 12.678570081603546
+2025-02-09 17:15:19,629 - INFO - Updating balance for leonard1@gmail.com, water: -0.1797062432186664
+2025-02-09 17:15:19,635 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:15:19,636 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:15:19,637 - INFO - Usage simulation: water consumed 0.180 units
+2025-02-09 17:15:49,643 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:15:49,646 - INFO - Balance retrieved for leonard1@gmail.com: 12.49886383838488
+2025-02-09 17:15:49,648 - INFO - Updating balance for leonard1@gmail.com, water: -0.2327447183151261
+2025-02-09 17:15:49,653 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:15:49,654 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:15:49,654 - INFO - Usage simulation: water consumed 0.233 units
+2025-02-09 17:16:19,658 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:16:19,660 - INFO - Balance retrieved for leonard1@gmail.com: 12.266119120069753
+2025-02-09 17:16:19,661 - INFO - Updating balance for leonard1@gmail.com, water: -0.2275673260037134
+2025-02-09 17:16:19,666 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:16:19,667 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:16:19,667 - INFO - Usage simulation: water consumed 0.228 units
+2025-02-09 17:16:49,661 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:16:49,664 - INFO - Balance retrieved for leonard1@gmail.com: 12.03855179406604
+2025-02-09 17:16:49,665 - INFO - Updating balance for leonard1@gmail.com, water: -0.19803254205799178
+2025-02-09 17:16:49,671 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:16:49,673 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:16:49,673 - INFO - Usage simulation: water consumed 0.198 units
+2025-02-09 17:17:19,927 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:17:19,930 - INFO - Balance retrieved for leonard1@gmail.com: 11.840519252008049
+2025-02-09 17:17:19,931 - INFO - Updating balance for leonard1@gmail.com, water: -0.16626744097740864
+2025-02-09 17:17:19,938 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:17:19,938 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:17:19,939 - INFO - Usage simulation: water consumed 0.166 units
+2025-02-09 17:17:50,213 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:17:50,215 - INFO - Balance retrieved for leonard1@gmail.com: 11.67425181103064
+2025-02-09 17:17:50,216 - INFO - Updating balance for leonard1@gmail.com, water: -0.21055812812121735
+2025-02-09 17:17:50,219 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:17:50,220 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:17:50,221 - INFO - Usage simulation: water consumed 0.211 units
+2025-02-09 17:18:20,366 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:18:20,369 - INFO - Balance retrieved for leonard1@gmail.com: 11.463693682909422
+2025-02-09 17:18:20,369 - INFO - Updating balance for leonard1@gmail.com, water: -0.19955884312508115
+2025-02-09 17:18:20,375 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:18:20,376 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:18:20,376 - INFO - Usage simulation: water consumed 0.200 units
+2025-02-09 17:18:50,372 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:18:50,376 - INFO - Balance retrieved for leonard1@gmail.com: 11.264134839784342
+2025-02-09 17:18:50,377 - INFO - Updating balance for leonard1@gmail.com, water: -0.17920572689524042
+2025-02-09 17:18:50,384 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:18:50,385 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:18:50,386 - INFO - Usage simulation: water consumed 0.179 units
+2025-02-09 17:19:20,388 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:19:20,389 - INFO - Balance retrieved for leonard1@gmail.com: 11.084929112889101
+2025-02-09 17:19:20,390 - INFO - Updating balance for leonard1@gmail.com, water: -0.16312967793381847
+2025-02-09 17:19:20,394 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:19:20,394 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:19:20,395 - INFO - Usage simulation: water consumed 0.163 units
+2025-02-09 17:19:50,404 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:19:50,408 - INFO - Balance retrieved for leonard1@gmail.com: 10.921799434955282
+2025-02-09 17:19:50,408 - INFO - Updating balance for leonard1@gmail.com, water: -0.19943193443937413
+2025-02-09 17:19:50,413 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:19:50,413 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:19:50,414 - INFO - Usage simulation: water consumed 0.199 units
+2025-02-09 17:20:20,483 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:20:20,487 - INFO - Balance retrieved for leonard1@gmail.com: 10.722367500515908
+2025-02-09 17:20:20,488 - INFO - Updating balance for leonard1@gmail.com, water: -0.1909493691538475
+2025-02-09 17:20:20,493 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:20:20,494 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:20:20,495 - INFO - Usage simulation: water consumed 0.191 units
+2025-02-09 17:20:50,495 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:20:50,498 - INFO - Balance retrieved for leonard1@gmail.com: 10.531418131362061
+2025-02-09 17:20:50,499 - INFO - Updating balance for leonard1@gmail.com, water: -0.23257996134579165
+2025-02-09 17:20:50,507 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:20:50,508 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:20:50,509 - INFO - Usage simulation: water consumed 0.233 units
+2025-02-09 17:21:20,506 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:21:20,509 - INFO - Balance retrieved for leonard1@gmail.com: 10.29883817001627
+2025-02-09 17:21:20,510 - INFO - Updating balance for leonard1@gmail.com, water: -0.22178967002952277
+2025-02-09 17:21:20,515 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:21:20,516 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:21:20,517 - INFO - Usage simulation: water consumed 0.222 units
+2025-02-09 17:21:50,528 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-09 17:21:50,531 - INFO - Balance retrieved for leonard1@gmail.com: 10.077048499986747
+2025-02-09 17:21:50,533 - INFO - Updating balance for leonard1@gmail.com, water: -0.16146988463254533
+2025-02-09 17:21:50,537 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-09 17:21:50,538 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-09 17:21:50,538 - INFO - Usage simulation: water consumed 0.161 units
+2025-02-09 17:21:50,542 - WARNING - Low balance alert: water balance at 9.92
+2025-02-10 07:40:47,119 - INFO - Meter Emulator application starting...
+2025-02-10 07:40:47,142 - INFO - Successfully connected to database: token_meter_recharge
+2025-02-10 07:40:47,142 - INFO - Database connection established successfully
+2025-02-10 07:41:11,332 - INFO - Attempting authentication for email: leonard1@gmail.com
+2025-02-10 07:41:11,333 - INFO - Attempting to authenticate user: leonard1@gmail.com
+2025-02-10 07:41:11,398 - INFO - User found: leonard1@gmail.com
+2025-02-10 07:41:11,398 - INFO - Authentication successful for user: leonard1@gmail.com
+2025-02-10 07:41:15,302 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-10 07:41:17,143 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-10 07:41:17,162 - INFO - Balance retrieved for leonard1@gmail.com: 9.915578615354201
+2025-02-10 07:41:17,162 - INFO - Updating balance for leonard1@gmail.com, water: -0.22444158828788865
+2025-02-10 07:41:17,187 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-10 07:41:17,188 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-10 07:41:17,188 - INFO - Usage simulation: water consumed 0.224 units
+2025-02-10 07:41:17,188 - WARNING - Low balance alert: water balance at 9.69
+2025-02-10 07:41:47,360 - INFO - Fetching balance for leonard1@gmail.com, water
+2025-02-10 07:41:47,362 - INFO - Balance retrieved for leonard1@gmail.com: 9.691137027066313
+2025-02-10 07:41:47,363 - INFO - Updating balance for leonard1@gmail.com, water: -0.20447882874620024
+2025-02-10 07:41:47,369 - INFO - Balance updated successfully for leonard1@gmail.com
+2025-02-10 07:41:47,370 - INFO - Display updated - Meter balance for water: 0.00
+2025-02-10 07:41:47,371 - INFO - Usage simulation: water consumed 0.204 units
+2025-02-10 07:41:47,371 - WARNING - Low balance alert: water balance at 9.49
+2025-02-10 08:33:36,694 - INFO - Meter Emulator application starting...
+2025-02-10 08:33:36,708 - INFO - Successfully connected to database: token_meter_recharge
+2025-02-10 08:33:36,708 - INFO - Database connection established successfully

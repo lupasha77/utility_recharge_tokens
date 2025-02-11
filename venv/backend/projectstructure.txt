@@ -1,0 +1,63 @@
+backend/
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── auth.py
+│   │   ├── verification.py
+│   │   ├── token_jwt.py
+│   │   ├── transactions.py
+|   |   ├── uploads.py
+│   ├── models/
+│   │   ├── user.py
+│   ├── services/
+│   │   ├── mail_service.py
+│   ├── emulator/  # New directory for emulator
+│   │   ├── __init__.py
+│   │   ├── meter_emulator.py
+│   │   ├── components/
+│   │   │   ├── __init__.py
+│   │   │   ├── lcd_display.py
+│   │   │   ├── keypad.py
+│   │   │   ├── token_validator.py
+├── run.py
+├── run_emulator.py  # New entry point for the emulator
+├── requirements.txt
+
+
+
+
+
+
+
+token_meter_recharge/
+backend/
+│
+├── app/
+│   ├── __init__.py  # Creates the Flask app
+│   ├── config.py  # Stores app settings
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── auth.py  # Handles user login, registration
+│   │   ├── verification.py  # Handles email verification
+│   │   ├── token_jwt.py  # Handles JWT tokens
+│   │   ├── transactions.py  # Handles transactions like purchases
+│   ├── models/
+│   │   ├── user.py  # User model
+│   ├── services/
+│   │   ├── mail_service.py  # Email sending logic
+│
+├── run.py  # Entry point (runs Flask app)
+├── requirements.txt  # Dependencies (Flask, PyMongo, JWT, etc.)
+
+
+
+
+
+Blueprint File	                             Registered Prefix	                Final Route Example
+auth_bp (Authentication)	                    /auth	                        /auth/login, /auth/register
+verification_bp (Email Verification)	        /verification	                /verification/verify-email
+token_bp (JWT Token Management)             	/api	                        /api/refresh-token, /api/logout
+auth_routes (Custom Authentication)	            /api/auth	                    /api/auth/login, /api/auth/signup
+transactions_routes (Transactions)	            /api/transactions	          /api/transactions/transfer, /api/transactions/purchase
