@@ -1,0 +1,12 @@
+my-website/
+├── public/              # Public assets (e.g., logos, icons)
+├── src/
+│   ├── components/      # Reusable UI components (e.g., forms, modals, buttons)
+│   ├── pages/           # Page-level components (e.g., Home, Login, Dashboard)
+│   ├── layouts/         # Shared layouts (e.g., Header, Footer, Sidebar)
+│   ├── hooks/           # Custom React hooks
+│   ├── utils/           # Utility functions (e.g., API calls, helpers)
+│   ├── App.tsx          # Main App component
+│   ├── main.tsx         # Entry point
+│   ├── routes.tsx       # App routes
+└── vite.config.ts       # Vite configuration
